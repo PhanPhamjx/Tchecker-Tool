@@ -38,4 +38,7 @@ data/settings.json
 
 # OS specific
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Allow exe files
+!*.exe 
